@@ -1,2 +1,17 @@
 
 # cargo-vet audits file
+
+[[audits.equivalent]]
+who = "R. Martinho Fernandes <rmf@rmf.io>"
+criteria = "safe-to-deploy"
+version = "1.0.1"
+
+[[audits.serde_spanned]]
+who = "R. Martinho Fernandes <rmf@rmf.io>"
+criteria = "safe-to-deploy"
+version = "0.6.3"
+
+[[audits.toml_datetime]]
+who = "R. Martinho Fernandes <rmf@rmf.io>"
+criteria = "safe-to-deploy"
+version = "0.6.3"
